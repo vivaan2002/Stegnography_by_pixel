@@ -1,0 +1,79 @@
+Frame Extraction Time for 12 vedio= 1 min 54.8929550319214 second
+
+
+:::::::::::::Text::::::::::::::::
+
+Encoding 1000 message From Single frame = 2.8215765953063965 second
+
+Decode 1000 message From Single frame = 0.23915863037109375
+
+:::::::::::::Text::::::::::::::::
+
+:::::::::::::Image:::::::::::::::
+
+Secret Image Size=100 by 100
+
+Extract Pixel from Image = 0.04686713218688965
+
+Encode pixel to single frame = 3.55031681060791
+
+Decode pixel from single frame = 0.2857940196990967
+
+Decode pixel to image = 0.028235435485839844
+
+:::::::::::::Image:::::::::::::::
+
+:::::::::::::Audio:::::::::::::::
+
+Audio size = 27 second
+
+Audio to Image Time = 0.47309327125549316
+
+Size of Image Generated = 933 by 933
+
+Extract Pixel from Image = 3.064981460571289
+
+Encode pixel to single frame = 1 min 32.20642518997192 sec
+
+Decode pixel from single frame = 27.378958463668823 sec
+
+Decode pixel to image = 2.496602773666382
+
+Image to Audio Time = 0.7434573173522949
+
+:::::::::::::Audio:::::::::::::::
+
+:::::::::::::Video:::::::::::::::
+
+Main video resolution = 4096 x 2048
+
+Secret video resolution = 100 x 100
+
+Secret video Size = 12 sec
+
+Average time to hide or decode each frame of secret video to each frame of vedio
+
+Extract Pixel from Frame = 0.03
+
+Encode pixel to single frame = 3.6
+
+Decode pixel from single frame = 0.29
+
+Decode pixel to Frame = 0.03
+
+:::::::::::::Video:::::::::::::::
+
+
+::::::::::::::PDF::::::::::::::::
+
+Covert 5 page pdf to img = 1.1529979705810547
+
+Extract Pixel from 1 Image = 10.495285511016846
+
+Encode 1/5 of all pixel of 1 image in single frame = 21.381219625473022
+
+Decode pixel of single frame = 2.7448794841766357
+
+Pixel to image =  2.790602673606781
+
+::::::::::::::PDF::::::::::::::::
